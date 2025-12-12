@@ -1,2 +1,4 @@
 # GRC-Maturity-Framework-Capstone-Project
 Designed and implemented an enterprise GRC solution for a regional bank, aligning cybersecurity governance, risk management, and compliance with NIST CSF, FFIEC, and GLBA. Includes risk register, policy framework, vendor risk management, and maturity roadmap.
+
+This project documents the design and implementation of an enterprise Governance, Risk, and Compliance (GRC) maturity framework for a fictional regional bank. The solution aligns cybersecurity governance, risk management, and regulatory compliance with industry standards such as NIST CSF, FFIEC, and GLBA. Deliverables include a centralized risk register, policy suite, vendor risk management processes, maturity assessments, and an implementation roadmap demonstrating how regulated financial institutions can strengthen cybersecurity oversight and audit readiness.
